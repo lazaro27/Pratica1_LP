@@ -37,6 +37,7 @@ public class Frase {
 		
 		System.out.println("O numero de vogais existentes e: " + cont);
 		//System.out.println("Frase: " + frase);
+		System.out.println("testandooo ");
 		ler.close();
 	}
 
